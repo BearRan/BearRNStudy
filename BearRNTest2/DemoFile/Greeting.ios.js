@@ -10,7 +10,7 @@ import {
     StyleSheet,
 } from 'react-native';
 
-class Gretting extends Component {
+export class Gretting extends Component {
     render() {
         return (
             <Text>Hello {this.props.name1}!</Text>
@@ -25,7 +25,7 @@ class LotsOfGrettings extends Component {
                 <Text style={styles.instruction}>
                     Welcome to React Native!
                 </Text>
-                <Gretting name1='Rexxar' />
+                <Gretting name1='Rexxar1' />
                 <Gretting name1='Jaina' />
                 <Gretting name1='Valeera' />
             </View>
@@ -53,6 +53,6 @@ const styles = StyleSheet.create({
         color: '#333333',
         marginBottom: 5,
     },
-});
+})
 
 AppRegistry.registerComponent('BearRNTest2', () => LotsOfGrettings);

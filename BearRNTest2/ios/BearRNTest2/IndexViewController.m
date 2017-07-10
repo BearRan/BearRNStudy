@@ -25,6 +25,7 @@
            @"OriginDemoTestVC",
            @"HelloWorldTestVC",
            @"GreetingVC",
+           @"StufyStateVC",
            ];
   [self createUI];
 }

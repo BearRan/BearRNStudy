@@ -1,18 +1,18 @@
 //
-//  GreetingVC.m
+//  StufyStateVC.m
 //  BearRNTest2
 //
 //  Created by apple on 2017/7/10.
 //  Copyright © 2017年 Facebook. All rights reserved.
 //
 
-#import "GreetingVC.h"
+#import "StufyStateVC.h"
 
-@interface GreetingVC ()
+@interface StufyStateVC ()
 
 @end
 
-@implementation GreetingVC
+@implementation StufyStateVC
 
 - (void)viewDidLoad {
   [super viewDidLoad];
@@ -24,7 +24,7 @@
 {
   NSURL *jsCodeLocation;
   
-  jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"DemoFile/Greeting.ios" fallbackResource:nil];
+  jsCodeLocation = [[RCTBundleURLProvider sharedSettings] jsBundleURLForBundleRoot:@"DemoFile/StudyState.ios" fallbackResource:nil];
   
   RCTRootView *rootView = [[RCTRootView alloc] initWithBundleURL:jsCodeLocation
                                                       moduleName:@"BearRNTest2"
@@ -33,5 +33,6 @@
   rootView.backgroundColor = [[UIColor alloc] initWithRed:1.0f green:1.0f blue:1.0f alpha:1];
   self.view = rootView;
 }
+
 
 @end
