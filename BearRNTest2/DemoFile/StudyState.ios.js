@@ -27,7 +27,7 @@ class Blink extends Component {
         // 根据当前showText的值决定是否显示text内容
         let display = this.state.showText ? this.props.text : '';
         return(
-            <Text style={{alignItems: 'center'}}>{display}</Text>
+            <Text>{display}</Text>
         );
     }
 }

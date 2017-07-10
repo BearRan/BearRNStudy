@@ -2,15 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6e49fe-e1c1-425c-98fc-a64bdd0b74f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyState.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StufyStateVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StufyStateVC.m" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/BearRNTest2/Greeting.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/Greeting.ios.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/GreetingVC.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/GreetingVC.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyState.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyState.ios.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -40,8 +33,8 @@
       <file leaf-file-name="StudyState.ios.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyState.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+            <state relative-caret-position="312">
+              <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#84#0" expanded="true" />
@@ -287,12 +280,12 @@
       <option name="presentableId" value="Default" />
       <updated>1499678994795</updated>
       <workItem from="1499678996173" duration="5330000" />
-      <workItem from="1499690469303" duration="2672000" />
+      <workItem from="1499690469303" duration="2978000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8002000" />
+    <option name="totallyTimeSpent" value="8308000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="40" y="23" width="1400" height="837" extended-state="0" />
@@ -381,8 +374,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyState.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="34" lean-forward="true" selection-start-line="47" selection-start-column="34" selection-end-line="47" selection-end-column="34" />
+        <state relative-caret-position="312">
+          <caret line="25" column="14" lean-forward="true" selection-start-line="25" selection-start-column="14" selection-end-line="25" selection-end-column="14" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#84#0" expanded="true" />
