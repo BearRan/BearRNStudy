@@ -31,6 +31,7 @@
            @"StudyFlexBoxVC",
            @"TextInputDealVC",
            @"StudyScrollViewVC",
+           @"StudyFlatListVC",
            ];
   [self createUI];
 }
