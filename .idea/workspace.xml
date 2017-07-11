@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6e49fe-e1c1-425c-98fc-a64bdd0b74f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/TextInputDealVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/TextInputDealVC.m" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-7ScrollView.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudyScrollViewVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudyScrollViewVC.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BaseViewController.h" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BaseViewController.h" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BaseViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BaseViewController.m" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" />
     </list>
@@ -26,7 +28,7 @@
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/Greeting.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="270">
-              <caret line="18" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+              <caret line="18" column="1" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#84#0" expanded="true" />
@@ -52,7 +54,7 @@
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="360">
-              <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#84#0" expanded="true" />
@@ -78,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="435">
-              <caret line="51" column="19" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
+              <caret line="51" column="19" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
               <folding>
                 <element signature="e#43#84#0" expanded="true" />
               </folding>
@@ -86,11 +88,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-6TextInputDeal.ios.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1-6TextInputDeal.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="300">
-              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+            <state relative-caret-position="653">
+              <caret line="76" column="42" lean-forward="false" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="42" />
+              <folding>
+                <element signature="e#43#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-7ScrollView.ios.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-7ScrollView.ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="420">
+              <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
               <folding>
                 <element signature="e#43#84#0" expanded="true" />
               </folding>
@@ -161,6 +175,7 @@
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js" />
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" />
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js" />
+        <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-7ScrollView.ios.js" />
       </list>
     </option>
   </component>
@@ -346,12 +361,12 @@
       <updated>1499678994795</updated>
       <workItem from="1499678996173" duration="5330000" />
       <workItem from="1499690469303" duration="8302000" />
-      <workItem from="1499744458046" duration="6108000" />
+      <workItem from="1499744458046" duration="7197000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19740000" />
+    <option name="totallyTimeSpent" value="20829000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1400" height="837" extended-state="0" />
@@ -502,7 +517,7 @@
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
-          <caret line="24" column="0" lean-forward="true" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#84#0" expanded="true" />
@@ -524,7 +539,7 @@
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/Greeting.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="270">
-          <caret line="18" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
+          <caret line="18" column="1" lean-forward="false" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#84#0" expanded="true" />
@@ -554,7 +569,7 @@
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="435">
-          <caret line="51" column="19" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
+          <caret line="51" column="19" lean-forward="false" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
           <folding>
             <element signature="e#43#84#0" expanded="true" />
           </folding>
@@ -563,8 +578,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="300">
-          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
+        <state relative-caret-position="653">
+          <caret line="76" column="42" lean-forward="false" selection-start-line="76" selection-start-column="31" selection-end-line="76" selection-end-column="42" />
+          <folding>
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-7ScrollView.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="30" column="16" lean-forward="false" selection-start-line="30" selection-start-column="16" selection-end-line="30" selection-end-column="16" />
           <folding>
             <element signature="e#43#84#0" expanded="true" />
           </folding>

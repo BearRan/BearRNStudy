@@ -32,6 +32,7 @@
 		188FAB6A1F1470A7000E83FE /* StudyRelayVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB691F1470A7000E83FE /* StudyRelayVC.m */; };
 		188FAB6D1F1478BA000E83FE /* StudyFlexBoxVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB6C1F1478BA000E83FE /* StudyFlexBoxVC.m */; };
 		188FAB701F14AC40000E83FE /* TextInputDealVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB6F1F14AC40000E83FE /* TextInputDealVC.m */; };
+		188FAB731F14AFAE000E83FE /* StudyScrollViewVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB721F14AFAE000E83FE /* StudyScrollViewVC.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -308,6 +309,8 @@
 		188FAB6C1F1478BA000E83FE /* StudyFlexBoxVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudyFlexBoxVC.m; sourceTree = "<group>"; };
 		188FAB6E1F14AC40000E83FE /* TextInputDealVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextInputDealVC.h; sourceTree = "<group>"; };
 		188FAB6F1F14AC40000E83FE /* TextInputDealVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextInputDealVC.m; sourceTree = "<group>"; };
+		188FAB711F14AFAE000E83FE /* StudyScrollViewVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudyScrollViewVC.h; sourceTree = "<group>"; };
+		188FAB721F14AFAE000E83FE /* StudyScrollViewVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudyScrollViewVC.m; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* BearRNTest2-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BearRNTest2-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* BearRNTest2-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BearRNTest2-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
@@ -470,6 +473,8 @@
 				188FAB6C1F1478BA000E83FE /* StudyFlexBoxVC.m */,
 				188FAB6E1F14AC40000E83FE /* TextInputDealVC.h */,
 				188FAB6F1F14AC40000E83FE /* TextInputDealVC.m */,
+				188FAB711F14AFAE000E83FE /* StudyScrollViewVC.h */,
+				188FAB721F14AFAE000E83FE /* StudyScrollViewVC.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
@@ -1019,6 +1024,7 @@
 				188FAB011F138519000E83FE /* HelloWorldTestVC.m in Sources */,
 				188FAB6A1F1470A7000E83FE /* StudyRelayVC.m in Sources */,
 				188FAB2B1F139DC8000E83FE /* BaseViewController.m in Sources */,
+				188FAB731F14AFAE000E83FE /* StudyScrollViewVC.m in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
 				188FAB6D1F1478BA000E83FE /* StudyFlexBoxVC.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
