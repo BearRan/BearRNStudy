@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6e49fe-e1c1-425c-98fc-a64bdd0b74f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudyFlexBoxVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudyFlexBoxVC.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -26,8 +20,8 @@
       <file leaf-file-name="Greeting.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/Greeting.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="623">
-              <caret line="55" column="2" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="55" selection-end-column="2" />
+            <state relative-caret-position="270">
+              <caret line="18" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#84#0" expanded="true" />
@@ -65,7 +59,7 @@
       <file leaf-file-name="StudyRelay.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyRelay.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="555">
               <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -78,11 +72,21 @@
       <file leaf-file-name="1-5StudyFlexBlox.ios.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+            <state relative-caret-position="413">
+              <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
               <folding>
                 <element signature="e#43#84#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="react-native-implementation.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BearRNTest2/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1067">
+              <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -100,7 +104,7 @@
       <file leaf-file-name="index.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/index.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="465">
+            <state relative-caret-position="445">
               <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
@@ -192,24 +196,6 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="BearRNTest2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BearRNStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BearRNStudy" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="BearRNTest2" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="ios" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -342,12 +328,12 @@
       <updated>1499678994795</updated>
       <workItem from="1499678996173" duration="5330000" />
       <workItem from="1499690469303" duration="8302000" />
-      <workItem from="1499744458046" duration="1660000" />
+      <workItem from="1499744458046" duration="4383000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15292000" />
+    <option name="totallyTimeSpent" value="18015000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1400" height="837" extended-state="0" />
@@ -495,28 +481,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyRelay.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#43#84#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/BearRNTest2/index.ios.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
-          <folding>
-            <element signature="n#!!doc" expanded="true" />
-            <element signature="e#89#130#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="360">
@@ -528,10 +492,21 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BearRNTest2/index.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="445">
+          <caret line="43" column="25" lean-forward="false" selection-start-line="43" selection-start-column="25" selection-end-line="43" selection-end-column="25" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#89#130#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/Greeting.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="55" column="2" lean-forward="true" selection-start-line="38" selection-start-column="0" selection-end-line="55" selection-end-column="2" />
+        <state relative-caret-position="270">
+          <caret line="18" column="1" lean-forward="true" selection-start-line="12" selection-start-column="0" selection-end-line="18" selection-end-column="1" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#84#0" expanded="true" />
@@ -539,10 +514,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/StudyRelay.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="37" column="2" lean-forward="false" selection-start-line="37" selection-start-column="2" selection-end-line="37" selection-end-column="2" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BearRNTest2/node_modules/react-native/Libraries/react-native/react-native-implementation.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1067">
+          <caret line="94" column="6" lean-forward="false" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="31" column="13" lean-forward="true" selection-start-line="31" selection-start-column="13" selection-end-line="31" selection-end-column="13" />
+        <state relative-caret-position="413">
+          <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
           <folding>
             <element signature="e#43#84#0" expanded="true" />
           </folding>
