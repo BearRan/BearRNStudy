@@ -29,6 +29,7 @@
            @"StudyStyleVC",
            @"StudyRelayVC",
            @"StudyFlexBoxVC",
+           @"TextInputDealVC",
            ];
   [self createUI];
 }

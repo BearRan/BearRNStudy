@@ -2,7 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6e49fe-e1c1-425c-98fc-a64bdd0b74f6" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/TextInputDealVC.h" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/TextInputDealVC.m" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -69,11 +74,23 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="1-5StudyFlexBlox.ios.js" pinned="false" current-in-tab="true">
+      <file leaf-file-name="1-5StudyFlexBlox.ios.js" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+            <state relative-caret-position="435">
+              <caret line="51" column="19" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
+              <folding>
+                <element signature="e#43#84#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="1-6TextInputDeal.ios.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
               <folding>
                 <element signature="e#43#84#0" expanded="true" />
               </folding>
@@ -143,6 +160,7 @@
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.js" />
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/StudyStyle.ios.js" />
         <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js" />
+        <option value="$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js" />
       </list>
     </option>
   </component>
@@ -328,12 +346,12 @@
       <updated>1499678994795</updated>
       <workItem from="1499678996173" duration="5330000" />
       <workItem from="1499690469303" duration="8302000" />
-      <workItem from="1499744458046" duration="4383000" />
+      <workItem from="1499744458046" duration="6108000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18015000" />
+    <option name="totallyTimeSpent" value="19740000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1400" height="837" extended-state="0" />
@@ -535,8 +553,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-5StudyFlexBlox.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="413">
-          <caret line="81" column="30" lean-forward="true" selection-start-line="81" selection-start-column="30" selection-end-line="81" selection-end-column="30" />
+        <state relative-caret-position="435">
+          <caret line="51" column="19" lean-forward="true" selection-start-line="45" selection-start-column="12" selection-end-line="51" selection-end-column="19" />
+          <folding>
+            <element signature="e#43#84#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/1-6TextInputDeal.ios.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="32" column="19" lean-forward="true" selection-start-line="32" selection-start-column="19" selection-end-line="32" selection-end-column="19" />
           <folding>
             <element signature="e#43#84#0" expanded="true" />
           </folding>
