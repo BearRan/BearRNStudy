@@ -28,6 +28,7 @@
 		188FAB2B1F139DC8000E83FE /* BaseViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB2A1F139DC8000E83FE /* BaseViewController.m */; };
 		188FAB2E1F139DD9000E83FE /* GreetingVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB2D1F139DD9000E83FE /* GreetingVC.m */; };
 		188FAB471F13B5A2000E83FE /* StufyStateVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB461F13B5A2000E83FE /* StufyStateVC.m */; };
+		188FAB671F146BE1000E83FE /* StudyStyleVC.m in Sources */ = {isa = PBXBuildFile; fileRef = 188FAB661F146BE1000E83FE /* StudyStyleVC.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -296,6 +297,8 @@
 		188FAB2D1F139DD9000E83FE /* GreetingVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = GreetingVC.m; sourceTree = "<group>"; };
 		188FAB451F13B5A2000E83FE /* StufyStateVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StufyStateVC.h; sourceTree = "<group>"; };
 		188FAB461F13B5A2000E83FE /* StufyStateVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StufyStateVC.m; sourceTree = "<group>"; };
+		188FAB651F146BE1000E83FE /* StudyStyleVC.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = StudyStyleVC.h; sourceTree = "<group>"; };
+		188FAB661F146BE1000E83FE /* StudyStyleVC.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = StudyStyleVC.m; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* BearRNTest2-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "BearRNTest2-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* BearRNTest2-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "BearRNTest2-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		5E91572D1DD0AC6500FF2AA8 /* RCTAnimation.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = RCTAnimation.xcodeproj; path = "../node_modules/react-native/Libraries/NativeAnimation/RCTAnimation.xcodeproj"; sourceTree = "<group>"; };
@@ -450,6 +453,8 @@
 				188FAB2D1F139DD9000E83FE /* GreetingVC.m */,
 				188FAB451F13B5A2000E83FE /* StufyStateVC.h */,
 				188FAB461F13B5A2000E83FE /* StufyStateVC.m */,
+				188FAB651F146BE1000E83FE /* StudyStyleVC.h */,
+				188FAB661F146BE1000E83FE /* StudyStyleVC.m */,
 				13B07FB51A68108700A75B9A /* Images.xcassets */,
 				13B07FB61A68108700A75B9A /* Info.plist */,
 				13B07FB11A68108700A75B9A /* LaunchScreen.xib */,
@@ -1002,6 +1007,7 @@
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 				188FAB021F138519000E83FE /* IndexViewController.m in Sources */,
 				188FAB471F13B5A2000E83FE /* StufyStateVC.m in Sources */,
+				188FAB671F146BE1000E83FE /* StudyStyleVC.m in Sources */,
 				188FAB031F138519000E83FE /* OriginDemoTestVC.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
