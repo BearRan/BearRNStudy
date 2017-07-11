@@ -27,6 +27,7 @@
            @"GreetingVC",
            @"StufyStateVC",
            @"StudyStyleVC",
+           @"StudyRelayVC",
            ];
   [self createUI];
 }
