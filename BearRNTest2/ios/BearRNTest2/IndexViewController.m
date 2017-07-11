@@ -28,6 +28,7 @@
            @"StufyStateVC",
            @"StudyStyleVC",
            @"StudyRelayVC",
+           @"StudyFlexBoxVC",
            ];
   [self createUI];
 }

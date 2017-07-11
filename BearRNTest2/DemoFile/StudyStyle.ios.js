@@ -23,6 +23,7 @@ class LotsOfStyles extends Component {
     }
 }
 
+
 const styles = StyleSheet.create({
     bigBlue: {
         color: 'blue',
