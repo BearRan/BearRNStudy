@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d6e49fe-e1c1-425c-98fc-a64bdd0b74f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/2-1StudyRNNav.ios.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/RNNaviVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/RNNaviVC.m" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudySectionListVC.h" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/BearRNTest2/ios/StudySectionListVC.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-9SectionList.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/1-9SectionList.ios.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2.xcodeproj/project.pbxproj" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" afterPath="$PROJECT_DIR$/BearRNTest2/ios/BearRNTest2/IndexViewController.m" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/package.json" afterPath="$PROJECT_DIR$/BearRNTest2/package.json" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/BearRNTest2/DemoFile/2-1StudyRNNav.ios.js" afterPath="$PROJECT_DIR$/BearRNTest2/DemoFile/2-1StudyRNNav.ios.js" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -102,11 +93,12 @@
       <file leaf-file-name="2-1StudyRNNav.ios.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/2-1StudyRNNav.ios.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="287">
-              <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+            <state relative-caret-position="357">
+              <caret line="51" column="58" lean-forward="false" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
               <folding>
                 <element signature="n#!!doc" expanded="true" />
                 <element signature="e#43#69#0" expanded="true" />
+                <marker date="1499869535000" expanded="true" signature="1339:1412" ph="..." />
               </folding>
             </state>
           </provider>
@@ -146,6 +138,7 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>style={styles.container}</find>
+      <find>navigation</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -358,12 +351,12 @@
       <workItem from="1499744458046" duration="11264000" />
       <workItem from="1499862368399" duration="3618000" />
       <workItem from="1499867865857" duration="36000" />
-      <workItem from="1499867919334" duration="590000" />
+      <workItem from="1499867919334" duration="1628000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29140000" />
+    <option name="totallyTimeSpent" value="30178000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="12" y="23" width="1400" height="837" extended-state="0" />
@@ -371,7 +364,7 @@
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3294271" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -395,7 +388,7 @@
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="2" />
+      <option name="time" value="3" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -475,6 +468,7 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#69#0" expanded="true" />
+            <marker date="1499869535000" expanded="true" signature="1339:1412" ph="..." />
           </folding>
         </state>
       </provider>
@@ -565,6 +559,7 @@
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#69#0" expanded="true" />
+            <marker date="1499869535000" expanded="true" signature="1339:1412" ph="..." />
           </folding>
         </state>
       </provider>
@@ -849,11 +844,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BearRNTest2/DemoFile/2-1StudyRNNav.ios.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="287">
-          <caret line="29" column="1" lean-forward="true" selection-start-line="29" selection-start-column="1" selection-end-line="29" selection-end-column="1" />
+        <state relative-caret-position="357">
+          <caret line="51" column="58" lean-forward="false" selection-start-line="51" selection-start-column="58" selection-end-line="51" selection-end-column="58" />
           <folding>
             <element signature="n#!!doc" expanded="true" />
             <element signature="e#43#69#0" expanded="true" />
+            <marker date="1499869535000" expanded="true" signature="1339:1412" ph="..." />
           </folding>
         </state>
       </provider>
