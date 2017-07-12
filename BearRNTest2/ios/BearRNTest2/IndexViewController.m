@@ -32,6 +32,8 @@
            @"TextInputDealVC",
            @"StudyScrollViewVC",
            @"StudyFlatListVC",
+           @"StudySectionListVC",
+           @"RNNaviVC",
            ];
   [self createUI];
 }

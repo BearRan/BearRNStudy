@@ -20,7 +20,7 @@ class SectionListBasics extends Component {
                         {title: 'D', data: ['Devin']},
                         {title: 'J', data: ['Jackson', 'James', 'Jillian', 'Jimy', 'Joel', 'John', 'Julie']},
                             ]}
-                    renderItem={({item}) => <Text style=styles.item>{item}</Text>}
+                    renderItem={({item}) => <Text style={styles.item}>{item}</Text>}
                     renderSectionHeader={({section}) => <Text style={styles.sectionHeader}>{section.title}</Text>}
                 />
             </View>
